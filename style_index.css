@@ -139,3 +139,7 @@ img.nyan {
     transform: skew(60deg) scaleY(.5);
     transform-origin: bottom left;
 }
+
+form{
+ text-align: center;
+}
