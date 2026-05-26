@@ -49,6 +49,14 @@ li {
     unicode-bidi: isolate;
 }
 
+.kont{
+	background-color: black;
+	color:white;
+	font-size: 20px;
+	display: inline-block;
+	text-align: center;
+}
+
 a{
 	color: navy;
     font-weight: 700;
